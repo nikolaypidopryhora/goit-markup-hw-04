@@ -460,3 +460,12 @@ a {
     position: relative;
     overflow: hidden;
 }
+
+.page-footer .social-icons {
+    gap: 16px;
+}
+
+.page-footer .social-link:hover,
+.page-footer .social-link:focus {
+    background-color: #31d0aa;
+}
